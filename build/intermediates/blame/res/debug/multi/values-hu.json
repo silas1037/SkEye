@@ -1,0 +1,2598 @@
+[
+    {
+        "outputFile": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\values-hu\\values-hu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 2668
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 3226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2673,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 2863
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 5035,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 5232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 2868,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 3067
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 4155,
+                        "endLine": 144,
+                        "endColumn": 12,
+                        "endOffset": 4361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3072,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 3151
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 3549,
+                        "endLine": 120,
+                        "endColumn": 12,
+                        "endOffset": 3630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 3156,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 3348
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 3636,
+                        "endLine": 126,
+                        "endColumn": 12,
+                        "endOffset": 3833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3353,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 3465
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 3232,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 3347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3470,
+                    "endLine": 126,
+                    "endColumn": 12,
+                    "endOffset": 3655
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 3353,
+                        "endLine": 117,
+                        "endColumn": 12,
+                        "endOffset": 3543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3660,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 3961
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 3839,
+                        "endLine": 136,
+                        "endColumn": 12,
+                        "endOffset": 4149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 3966,
+                    "endLine": 141,
+                    "endColumn": 12,
+                    "endOffset": 4109
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 4489,
+                        "endLine": 153,
+                        "endColumn": 12,
+                        "endOffset": 4636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4114,
+                    "endLine": 148,
+                    "endColumn": 12,
+                    "endOffset": 4316
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 4642,
+                        "endLine": 160,
+                        "endColumn": 12,
+                        "endOffset": 4850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 4321,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 4767
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 4772,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 4885
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 4367,
+                        "endLine": 148,
+                        "endColumn": 12,
+                        "endOffset": 4483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 4890,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 5058
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\arrays.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 4856,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 5029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 5063,
+                    "endColumn": 626,
+                    "endOffset": 5685
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5809,
+                        "endColumn": 674,
+                        "endOffset": 6479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 5690,
+                    "endColumn": 55,
+                    "endOffset": 5741
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3550,
+                        "endColumn": 55,
+                        "endOffset": 3601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 5746,
+                    "endColumn": 79,
+                    "endOffset": 5821
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3662,
+                        "endColumn": 79,
+                        "endOffset": 3737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 5826,
+                    "endColumn": 42,
+                    "endOffset": 5864
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2532,
+                        "endColumn": 42,
+                        "endOffset": 2570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 5869,
+                    "endColumn": 45,
+                    "endOffset": 5910
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2913,
+                        "endColumn": 45,
+                        "endOffset": 2954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 5915,
+                    "endColumn": 58,
+                    "endOffset": 5969
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3007,
+                        "endColumn": 58,
+                        "endOffset": 3061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 5974,
+                    "endColumn": 60,
+                    "endOffset": 6030
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 7261,
+                        "endColumn": 60,
+                        "endOffset": 7317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6035,
+                    "endColumn": 74,
+                    "endOffset": 6105
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2174,
+                        "endColumn": 74,
+                        "endOffset": 2244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 6110,
+                    "endColumn": 227,
+                    "endOffset": 6333
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 10580,
+                        "endColumn": 254,
+                        "endOffset": 10830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 6338,
+                    "endColumn": 65,
+                    "endOffset": 6399
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 8436,
+                        "endColumn": 65,
+                        "endOffset": 8497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 6404,
+                    "endColumn": 173,
+                    "endOffset": 6573
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 8503,
+                        "endColumn": 173,
+                        "endOffset": 8672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 6578,
+                    "endColumn": 84,
+                    "endOffset": 6658
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 8678,
+                        "endColumn": 84,
+                        "endOffset": 8758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 6663,
+                    "endColumn": 59,
+                    "endOffset": 6718
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7200,
+                        "endColumn": 59,
+                        "endOffset": 7255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 6723,
+                    "endColumn": 45,
+                    "endOffset": 6764
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 10533,
+                        "endColumn": 45,
+                        "endOffset": 10574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 6769,
+                    "endColumn": 84,
+                    "endOffset": 6849
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 7742,
+                        "endColumn": 84,
+                        "endOffset": 7822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 6854,
+                    "endColumn": 103,
+                    "endOffset": 6953
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 10836,
+                        "endColumn": 103,
+                        "endOffset": 10935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 6958,
+                    "endColumn": 46,
+                    "endOffset": 7000
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 10347,
+                        "endColumn": 46,
+                        "endOffset": 10389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 7005,
+                    "endColumn": 67,
+                    "endOffset": 7068
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3401,
+                        "endColumn": 67,
+                        "endOffset": 3464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 7073,
+                    "endColumn": 65,
+                    "endOffset": 7134
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 7323,
+                        "endColumn": 65,
+                        "endOffset": 7384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 7139,
+                    "endColumn": 60,
+                    "endOffset": 7195
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3872,
+                        "endColumn": 60,
+                        "endOffset": 3928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 7200,
+                    "endColumn": 85,
+                    "endOffset": 7281
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3934,
+                        "endColumn": 85,
+                        "endOffset": 4015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 7286,
+                    "endColumn": 48,
+                    "endOffset": 7330
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3822,
+                        "endColumn": 48,
+                        "endOffset": 3866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 7335,
+                    "endColumn": 73,
+                    "endOffset": 7404
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3067,
+                        "endColumn": 73,
+                        "endOffset": 3136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 7409,
+                    "endColumn": 76,
+                    "endOffset": 7481
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4724,
+                        "endColumn": 76,
+                        "endOffset": 4796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 7486,
+                    "endColumn": 113,
+                    "endOffset": 7595
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 9597,
+                        "endColumn": 113,
+                        "endOffset": 9706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 7600,
+                    "endColumn": 156,
+                    "endOffset": 7752
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 10110,
+                        "endColumn": 156,
+                        "endOffset": 10262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 7757,
+                    "endColumn": 81,
+                    "endOffset": 7834
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4802,
+                        "endColumn": 81,
+                        "endOffset": 4879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 7839,
+                    "endColumn": 52,
+                    "endOffset": 7887
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 6838,
+                        "endColumn": 52,
+                        "endOffset": 6886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 7892,
+                    "endColumn": 53,
+                    "endOffset": 7941
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6628,
+                        "endColumn": 53,
+                        "endOffset": 6677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 7946,
+                    "endColumn": 65,
+                    "endOffset": 8007
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 8176,
+                        "endColumn": 65,
+                        "endOffset": 8237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 8012,
+                    "endColumn": 217,
+                    "endOffset": 8225
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 9712,
+                        "endColumn": 217,
+                        "endOffset": 9925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 8230,
+                    "endColumn": 114,
+                    "endOffset": 8340
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 114,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 8345,
+                    "endColumn": 78,
+                    "endOffset": 8419
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 8764,
+                        "endColumn": 78,
+                        "endOffset": 8838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 8424,
+                    "endColumn": 58,
+                    "endOffset": 8478
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 8376,
+                        "endColumn": 58,
+                        "endOffset": 8430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 8483,
+                    "endColumn": 74,
+                    "endOffset": 8553
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 9027,
+                        "endColumn": 74,
+                        "endOffset": 9097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 8558,
+                    "endColumn": 95,
+                    "endOffset": 8649
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 8930,
+                        "endColumn": 95,
+                        "endOffset": 9021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 8654,
+                    "endColumn": 78,
+                    "endOffset": 8728
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3470,
+                        "endColumn": 78,
+                        "endOffset": 3544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 8733,
+                    "endColumn": 36,
+                    "endOffset": 8765
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7111,
+                        "endColumn": 36,
+                        "endOffset": 7143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 8770,
+                    "endColumn": 76,
+                    "endOffset": 8842
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 9519,
+                        "endColumn": 76,
+                        "endOffset": 9591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8847,
+                    "endColumn": 55,
+                    "endOffset": 8898
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 7499,
+                        "endColumn": 55,
+                        "endOffset": 7550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8903,
+                    "endColumn": 49,
+                    "endOffset": 8948
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7149,
+                        "endColumn": 49,
+                        "endOffset": 7194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 8953,
+                    "endColumn": 64,
+                    "endOffset": 9013
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 10941,
+                        "endColumn": 64,
+                        "endOffset": 11001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 9018,
+                    "endColumn": 46,
+                    "endOffset": 9060
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 10436,
+                        "endColumn": 46,
+                        "endOffset": 10478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 9065,
+                    "endColumn": 66,
+                    "endOffset": 9127
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2576,
+                        "endColumn": 66,
+                        "endOffset": 2638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 9132,
+                    "endColumn": 80,
+                    "endOffset": 9208
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 8020,
+                        "endColumn": 80,
+                        "endOffset": 8096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 9213,
+                    "endColumn": 70,
+                    "endOffset": 9279
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 7948,
+                        "endColumn": 70,
+                        "endOffset": 8014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 9284,
+                    "endColumn": 72,
+                    "endOffset": 9352
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 8102,
+                        "endColumn": 72,
+                        "endOffset": 8170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 9357,
+                    "endColumn": 70,
+                    "endOffset": 9423
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 8304,
+                        "endColumn": 70,
+                        "endOffset": 8370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 9428,
+                    "endColumn": 118,
+                    "endOffset": 9542
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 7828,
+                        "endColumn": 118,
+                        "endOffset": 7942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 9547,
+                    "endColumn": 59,
+                    "endOffset": 9602
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 8243,
+                        "endColumn": 59,
+                        "endOffset": 8298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 9607,
+                    "endColumn": 47,
+                    "endOffset": 9650
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 10484,
+                        "endColumn": 47,
+                        "endOffset": 10527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 9655,
+                    "endColumn": 67,
+                    "endOffset": 9718
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2644,
+                        "endColumn": 67,
+                        "endOffset": 2707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 9723,
+                    "endColumn": 92,
+                    "endOffset": 9811
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 7390,
+                        "endColumn": 107,
+                        "endOffset": 7493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 9816,
+                    "endColumn": 53,
+                    "endOffset": 9865
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3607,
+                        "endColumn": 53,
+                        "endOffset": 3656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 9870,
+                    "endColumn": 77,
+                    "endOffset": 9943
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 77,
+                        "endOffset": 3816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 9948,
+                    "endColumn": 112,
+                    "endOffset": 10056
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 112,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 10061,
+                    "endColumn": 50,
+                    "endOffset": 10107
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 50,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 10112,
+                    "endColumn": 68,
+                    "endOffset": 10176
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 68,
+                        "endOffset": 1056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 10181,
+                    "endColumn": 64,
+                    "endOffset": 10241
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 64,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 10246,
+                    "endColumn": 64,
+                    "endOffset": 10306
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 64,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 10311,
+                    "endColumn": 53,
+                    "endOffset": 10360
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 53,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 10365,
+                    "endColumn": 67,
+                    "endOffset": 10428
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 67,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 10433,
+                    "endColumn": 51,
+                    "endOffset": 10480
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 51,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 10485,
+                    "endColumn": 57,
+                    "endOffset": 10538
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 57,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 10543,
+                    "endColumn": 63,
+                    "endOffset": 10602
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 11271,
+                        "endColumn": 63,
+                        "endOffset": 11330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 10607,
+                    "endColumn": 44,
+                    "endOffset": 10647
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 6539,
+                        "endColumn": 44,
+                        "endOffset": 6579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 10652,
+                    "endColumn": 71,
+                    "endOffset": 10719
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2250,
+                        "endColumn": 71,
+                        "endOffset": 2317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 10724,
+                    "endColumn": 165,
+                    "endOffset": 10885
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4066,
+                        "endColumn": 165,
+                        "endOffset": 4227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 10890,
+                    "endColumn": 39,
+                    "endOffset": 10925
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6683,
+                        "endColumn": 39,
+                        "endOffset": 6718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 10930,
+                    "endColumn": 76,
+                    "endOffset": 11002
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3323,
+                        "endColumn": 76,
+                        "endOffset": 3395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 11007,
+                    "endColumn": 43,
+                    "endOffset": 11046
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4021,
+                        "endColumn": 43,
+                        "endOffset": 4060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 11051,
+                    "endColumn": 84,
+                    "endOffset": 11131
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 8844,
+                        "endColumn": 84,
+                        "endOffset": 8924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 11136,
+                    "endColumn": 84,
+                    "endOffset": 11216
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3142,
+                        "endColumn": 84,
+                        "endOffset": 3222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 11221,
+                    "endColumn": 330,
+                    "endOffset": 11547
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 9187,
+                        "endColumn": 330,
+                        "endOffset": 9513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 11552,
+                    "endColumn": 82,
+                    "endOffset": 11630
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 9103,
+                        "endColumn": 82,
+                        "endOffset": 9181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 11635,
+                    "endColumn": 47,
+                    "endOffset": 11678
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7022,
+                        "endColumn": 47,
+                        "endOffset": 7065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 11683,
+                    "endColumn": 51,
+                    "endOffset": 11730
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2479,
+                        "endColumn": 51,
+                        "endOffset": 2526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 11735,
+                    "endColumn": 97,
+                    "endOffset": 11828
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4542,
+                        "endColumn": 97,
+                        "endOffset": 4635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 11833,
+                    "endColumn": 81,
+                    "endOffset": 11910
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4641,
+                        "endColumn": 81,
+                        "endOffset": 4718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 11915,
+                    "endColumn": 77,
+                    "endOffset": 11988
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4463,
+                        "endColumn": 77,
+                        "endOffset": 4536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 11993,
+                    "endColumn": 47,
+                    "endOffset": 12036
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6789,
+                        "endColumn": 47,
+                        "endOffset": 6832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 12041,
+                    "endColumn": 42,
+                    "endOffset": 12079
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3228,
+                        "endColumn": 42,
+                        "endOffset": 3266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 12084,
+                    "endColumn": 139,
+                    "endOffset": 12219
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2772,
+                        "endColumn": 139,
+                        "endOffset": 2907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 12224,
+                    "endColumn": 228,
+                    "endOffset": 12448
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4233,
+                        "endColumn": 228,
+                        "endOffset": 4457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 12453,
+                    "endColumn": 459,
+                    "endOffset": 12908
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5348,
+                        "endColumn": 459,
+                        "endOffset": 5803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 12913,
+                    "endColumn": 95,
+                    "endOffset": 13004
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5251,
+                        "endColumn": 95,
+                        "endOffset": 5342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 13009,
+                    "endColumn": 77,
+                    "endOffset": 13082
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4885,
+                        "endColumn": 77,
+                        "endOffset": 4958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 13087,
+                    "endColumn": 87,
+                    "endOffset": 13170
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4964,
+                        "endColumn": 87,
+                        "endOffset": 5047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 13175,
+                    "endColumn": 56,
+                    "endOffset": 13227
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 11213,
+                        "endColumn": 56,
+                        "endOffset": 11265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 13232,
+                    "endColumn": 126,
+                    "endOffset": 13354
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 11085,
+                        "endColumn": 126,
+                        "endOffset": 11207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 13359,
+                    "endColumn": 76,
+                    "endOffset": 13431
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 11007,
+                        "endColumn": 76,
+                        "endOffset": 11079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 13436,
+                    "endColumn": 61,
+                    "endOffset": 13493
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1449,
+                        "endColumn": 61,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 13498,
+                    "endColumn": 78,
+                    "endOffset": 13572
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1295,
+                        "endColumn": 78,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 13577,
+                    "endColumn": 60,
+                    "endOffset": 13633
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1512,
+                        "endColumn": 60,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 13638,
+                    "endColumn": 72,
+                    "endOffset": 13706
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1375,
+                        "endColumn": 72,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 13711,
+                    "endColumn": 54,
+                    "endOffset": 13761
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 54,
+                        "endOffset": 1228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 13766,
+                    "endColumn": 59,
+                    "endOffset": 13821
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 59,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 13826,
+                    "endColumn": 60,
+                    "endOffset": 13882
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1574,
+                        "endColumn": 60,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 13887,
+                    "endColumn": 161,
+                    "endOffset": 14044
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1636,
+                        "endColumn": 161,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 14049,
+                    "endColumn": 70,
+                    "endOffset": 14115
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1799,
+                        "endColumn": 70,
+                        "endOffset": 1865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 14120,
+                    "endColumn": 115,
+                    "endOffset": 14231
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5134,
+                        "endColumn": 115,
+                        "endOffset": 5245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 14236,
+                    "endColumn": 79,
+                    "endOffset": 14311
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5053,
+                        "endColumn": 79,
+                        "endOffset": 5128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 14316,
+                    "endColumn": 38,
+                    "endOffset": 14350
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7071,
+                        "endColumn": 38,
+                        "endOffset": 7105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 14355,
+                    "endColumn": 52,
+                    "endOffset": 14403
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 6485,
+                        "endColumn": 52,
+                        "endOffset": 6533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 14408,
+                    "endColumn": 49,
+                    "endOffset": 14453
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3272,
+                        "endColumn": 49,
+                        "endOffset": 3317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 14458,
+                    "endColumn": 48,
+                    "endOffset": 14502
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1128,
+                        "endColumn": 48,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 14507,
+                    "endColumn": 63,
+                    "endOffset": 14566
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6724,
+                        "endColumn": 63,
+                        "endOffset": 6783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 14571,
+                    "endColumn": 57,
+                    "endOffset": 14624
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2713,
+                        "endColumn": 57,
+                        "endOffset": 2766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 14629,
+                    "endColumn": 44,
+                    "endOffset": 14669
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 6892,
+                        "endColumn": 44,
+                        "endOffset": 6932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 14674,
+                    "endColumn": 41,
+                    "endOffset": 14711
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 6585,
+                        "endColumn": 41,
+                        "endOffset": 6622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 14716,
+                    "endColumn": 45,
+                    "endOffset": 14757
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2960,
+                        "endColumn": 45,
+                        "endOffset": 3001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 14762,
+                    "endColumn": 82,
+                    "endOffset": 14840
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6938,
+                        "endColumn": 82,
+                        "endOffset": 7016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 14845,
+                    "endColumn": 283,
+                    "endOffset": 15124
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 283,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 15129,
+                    "endColumn": 301,
+                    "endOffset": 15426
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1871,
+                        "endColumn": 301,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 15431,
+                    "endColumn": 39,
+                    "endOffset": 15466
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 10395,
+                        "endColumn": 39,
+                        "endOffset": 10430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 15471,
+                    "endColumn": 64,
+                    "endOffset": 15531
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 64,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 15536,
+                    "endColumn": 77,
+                    "endOffset": 15609
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 10268,
+                        "endColumn": 77,
+                        "endOffset": 10341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 15614,
+                    "endColumn": 79,
+                    "endOffset": 15689
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2323,
+                        "endColumn": 79,
+                        "endOffset": 2398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 15694,
+                    "endColumn": 177,
+                    "endOffset": 15867
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 9931,
+                        "endColumn": 177,
+                        "endOffset": 10104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 15872,
+                    "endColumn": 73,
+                    "endOffset": 15941
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2404,
+                        "endColumn": 73,
+                        "endOffset": 2473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 15946,
+                    "endColumn": 107,
+                    "endOffset": 16049
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 7633,
+                        "endColumn": 107,
+                        "endOffset": 7736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 16054,
+                    "endColumn": 75,
+                    "endOffset": 16125
+                },
+                "from": {
+                    "file": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\values-hu\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 7556,
+                        "endColumn": 75,
+                        "endOffset": 7627
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_item_background.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\cal_item_background.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dropdown_pressed.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\btn_dropdown_pressed.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_item_background_focused.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\cal_item_background_focused.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\search_icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_preview.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\widget_preview.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\night_button_def.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\night_button_def.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\green_button.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\green_button.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\bkg_solid_rounded_orangish.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\bkg_solid_rounded_orangish.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\jump.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\jump.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\btn_radio.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_minus_pressed.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\zoom_minus_pressed.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_plus_states.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\zoom_plus_states.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_menu_header.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\custom_menu_header.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\bkg_solid_rounded_whitish.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\bkg_solid_rounded_whitish.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_dark.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\menu_dark.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\center_object_bg.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\center_object_bg.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\manual_mode_icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\manual_mode_icon.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\picker_middle.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\picker_middle.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\picker_bottom.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\picker_bottom.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_horizontal.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\seekbar_horizontal.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\insta_align_button.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\insta_align_button.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\picker_top.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\picker_top.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\world_map.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\red_button.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_minus_states.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\zoom_minus_states.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selector.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_item_background_default.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\cal_item_background_default.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_plus_pressed.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\zoom_plus_pressed.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_plus.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\zoom_plus.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg_night.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\toast_bg_night.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_divider.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\tab_divider.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_bg_dusk.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\toast_bg_dusk.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\night_listview_bg.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\night_listview_bg.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_minus.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\zoom_minus.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\bright_button.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\bright_button.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dropdown.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\btn_dropdown.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\pos_border.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\pos_border.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_dark.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\dialog_dark.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dropdown_normal.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\btn_dropdown_normal.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\time_pause.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\time_pause.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\bkg_solid_rounded_reddish.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\bkg_solid_rounded_reddish.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\textfield_bkg.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\textfield_bkg.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable\\shortcut_button.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable\\shortcut_button.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\color\\radio_button_text_color.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\color\\radio_button_text_color.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\color\\night_text_color.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\color\\night_text_color.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\color\\night_text_color_secondary.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\color\\night_text_color_secondary.xml"
+    }
+]

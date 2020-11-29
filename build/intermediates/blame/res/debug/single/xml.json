@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers_legacy.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\xml\\pref_headers_legacy.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_info.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\xml\\appwidget_info.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\xml\\pref_sensors.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\xml\\pref_sensors.xml"
+    }
+]

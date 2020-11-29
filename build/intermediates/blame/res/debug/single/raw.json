@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\center_pointer.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\center_pointer.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\satellite.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\satellite.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\dso_mark.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\dso_mark.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\star_composite.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\star_composite.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\sa.jet",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\sa.jet"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\dso_texture.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\dso_texture.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\sp.jet",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\sp.jet"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\raw\\comet_texture.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\raw\\comet_texture.png"
+    }
+]

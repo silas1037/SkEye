@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\maximise_icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable-xhdpi-v4\\maximise_icon.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\minimise_icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable-xhdpi-v4\\minimise_icon.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable-xhdpi-v4\\icon.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close_icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable-xhdpi-v4\\close_icon.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_overflow.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable-xhdpi-v4\\menu_overflow.png"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_icon.png",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\drawable-xhdpi-v4\\back_icon.png"
+    }
+]

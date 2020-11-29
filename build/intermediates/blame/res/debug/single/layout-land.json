@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_get_multi_align.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout-land\\activity_get_multi_align.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_selectobjectforalign.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout-land\\activity_selectobjectforalign.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout-land\\listitem_object.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout-land\\listitem_object.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout-land\\main_finderstatus_land.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout-land\\main_finderstatus_land.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout-land\\timebar_datetime.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout-land\\timebar_datetime.xml"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu_item.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\custom_menu_item.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectlocation.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\activity_selectlocation.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\timebar_datetime.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\timebar_datetime.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\date_picker.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addlocation.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\activity_addlocation.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\contextmenu_location.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\contextmenu_location.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\tabs_bg.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\tabs_bg.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\custom_menu.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm_align.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\dialog_confirm_align.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\get_multi_align_common.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\get_multi_align_common.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_filter_dialog.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\catalog_filter_dialog.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectobjectforalign.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\activity_selectobjectforalign.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_widget.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\calendar_widget.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\activity_catalog.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\activity_catalog.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\main_finder_status.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\main_finder_status.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_object.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\listitem_object.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\sensortips_group.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\sensortips_group.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\timebar.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\timebar.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\calibration.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\calibration.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_item.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\calendar_item.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\timepicker.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\add_tle_src.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\add_tle_src.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_choice.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\spinner_choice.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_choose_color_theme.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\dialog_choose_color_theme.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\tle_config_dialog.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\tle_config_dialog.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\tle_src_view.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\tle_src_view.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\control_overlay.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\control_overlay.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\comet_config_dialog.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\comet_config_dialog.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\search_common.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\search_common.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_multi_align.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\activity_get_multi_align.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\part_progress.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\part_progress.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_location.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\listitem_location.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\pref_category_with_summary.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\pref_category_with_summary.xml"
+    },
+    {
+        "merged": "G:\\SkEye\\SkEye\\01\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "G:\\SkEye\\SkEye\\01\\src\\main\\res\\layout\\calendar.xml"
+    }
+]

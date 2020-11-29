@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:154-184
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:96-122
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:70-95
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:123-153
+	platformBuildVersionName
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:215-255
+	platformBuildVersionCode
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:2:185-214
+uses-sdk
+ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:3:5-72
+	android:targetSdkVersion
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:3:41-70
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml:3:15-40
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
+		INJECTED from G:\SkEye\SkEye\01\src\main\AndroidManifest.xml
